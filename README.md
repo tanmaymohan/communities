@@ -35,7 +35,7 @@ List of the amazing Communities groups in India
 | GlobalTechTalk | [TechTalks](https://techtalk.co.in) | opensource | [Telegram](https://t.me/globaltechtalks) | [@globaltechtalks](https://www.facebook.com/GlobalTechTalks) |
 | GDG New Delhi | [GDG New Delhi](https://commudle.com/gdg-new-delhi) | Developer | - | [@gdgnewdelhi](https://www.facebook.com/gdgnewdelhi) |
 | Women Who Code Delhi | [Women Who Code Delhi](https://www.womenwhocode.com/delhi) | Developer | [Slack]() | [@womenwhocodedelhi](https://www.facebook.com/womenwhocodedelhi) |
-| Hackr Bootcamp | [Hackr.io](https://hackr.io/) | - | - | [@hackr.io](https://www.facebook.com/hackr.io) |
+| Hackr Bootcamp | [Hackr.io](https://hackr.io/) | Developer | [Website](https://hackr.io) | [@hackr.io](https://www.facebook.com/hackr.io) |
 | PyDelhi | [PyDelhi](http://pydelhi.org/) | Developer | Telegram | [@pydelhi](https://www.facebook.com/pydelhi) |
 | GDG Cloud New Delhi | [GDG Cloud New Delhi](https://commudle.com/gcdc-new-delhi) | Cloud | - | [@gdgcloudnd](https://www.facebook.com/gdgcloudnd/) |
 | LinuxChix India | [LinuxChix India](http://india.linuxchix.org/) | Linux | - | [@linuxchixin](https://www.facebook.com/linuxchixin/) |  
@@ -45,6 +45,11 @@ List of the amazing Communities groups in India
 | LaravelLive Delhi | [laravelLiveDelhi.in](https://laravelLiveDelhi.in) | developer | [Slack](https://laravelliveindia.slack.com/join/shared_invite/enQtNTc3MTA1MTY0NTI4LWNkMGY1ZjE3OThhMGFkNzEyYTRmNGRiOWZjMDdhNmU4ZDUwNjkyYjVmYzI5M2E3ZTE5MjJjM2E0OWNiYmE5MGY) | [@laravelDelhi](https://twitter.com/laravelDelhi) |
 | R-Ladies Delhi | [R-Ladies Delhi](https://www.meetup.com/rladies-new-delhi/) | Developer | - | [@R-Ladies](https://www.facebook.com/RLadies-Delhi-111066293606859/)|
 | HASH DEFINE | [hashdefine.tech](https://www.hashdefine.tech/) | Developer | - | [hash_define](www.instagram.com/hash_define/)|
+
+ 
+
+
+
 
 
 ## College Societies
@@ -56,7 +61,7 @@ List of the amazing Communities groups in India
 | DSC DCE | DCE | - | Developer | [Commudle](https://commudle.com/dsc-dce) | - |
 | DSC MRIIRS | MRIIRS | - | Developer | [Commudle](https://commudle.com/dsc-mriirs) | - |
 | HASH DEFINE BPIT | BPIT | [hashdefine.tech](https://www.hashdefine.tech/) | Developer | - | [hash_define](www.instagram.com/hash_define/) |
-
+| BitsPlease MSI | MSI | [bitsplease.tech](https://bitsplease.tech/) | Developer | 
 
 
 
